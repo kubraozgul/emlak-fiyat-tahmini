@@ -1,5 +1,4 @@
-                       EMLAK FİYAT TAHMİN VE KARAR DESTEK SİSTEMİ 
-
+#EMLAK FİYAT TAHMİN VE KARAR DESTEK SİSTEMİ
 1. İş Problemi 
 
 Gayrimenkul ilan platformumuzda satıcılar, evlerini listelerken piyasa değerini doğru belirleyememektedir. Bu durum evlerin aylarca satılamamasına (platformda ölü ilan kalabalığı oluşmasına) veya değerinin çok altında satılarak satıcıların maddi zarar etmesine yol açmaktadır. Temel amaç, sisteme yeni girilen bir evin piyasa değerini otomatik olarak hesaplayarak satıcılara veri odaklı bir "optimum fiyat önerisi" sunmaktır. 
